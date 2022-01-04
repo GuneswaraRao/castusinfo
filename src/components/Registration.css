@@ -1,0 +1,110 @@
+.Register-cps{
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    background-color: #8bc34a;
+    color: white;
+    margin: 0 0 18px !important;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+.form_text{
+  width: 100% !important ;
+  margin: 20px 0 0 !important;
+}
+
+.register_form{
+  padding: 25px 0 0;
+ }
+
+.register_inputs{
+  width: 100%;
+  margin: 0 0 18px !important;
+  position: relative;
+  display: flex;
+ 
+ }
+
+.register-popup-modal {
+ /* box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2); */
+ border-radius: 6px;
+ background-color: white;
+ padding: 1rem;
+ width: 30rem;
+ z-index: 10;
+ position: absolute;
+ top: 9vh;
+ /* bottom: 9vh; */
+ left: calc(50% - 15rem);
+}
+
+.Register-btn{
+ text-align:center; 
+}      
+
+.below_text{
+  color: black;
+}
+.buttonrow {
+    text-align: center;
+}
+.mybutton {
+    padding: 14px 20px;
+    background-color: #760426;
+    margin: 0px 20px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.mybutton:hover {
+    padding: 14px 20px;
+    background-color: #9c0532;
+    margin: 0px 20px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.mybutton2 {
+    padding: 14px 20px;
+    background-color: rgb(0, 71, 0);
+    margin: 0px 20px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.mybutton2:hover {
+    padding: 14px 20px;
+    background-color: rgb(1, 90, 1);
+    margin: 0px 20px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+
+i {
+  position: absolute;
+  top: 61%;
+  right: 11%;
+  color: #817b7b;
+}
+i:hover {
+  color: #817b7b;
+  cursor: pointer;
+}
+/* .fa-eye {
+  background-color: transparent;
+  color: #817b7b;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 0;
+}
+.fa-eye-slash {
+  background-color: transparent;
+  color: #817b7b;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 0;
+} */

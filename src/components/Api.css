@@ -1,0 +1,47 @@
+body {
+	display: flex;
+	justify-content: center;
+	font-size: 12px;
+	font-family: "calibri";
+}
+.box {
+	width: 100%;
+	border-radius: 6px;
+	padding: 6px 6px;
+}
+.box1 {
+	display: inline-block;
+	vertical-align:top;
+	float:left;
+	padding: 6px;
+}
+.box2 {
+	display: inline-block;
+	vertical-align:top;
+	padding: 10px;
+	}
+.eimg {
+	height: 50px;
+	border-radius: 5px;
+}
+.evetitle {
+	font-size: 16px;
+	color: #000;
+	font-weight:bold;
+}
+.evedesc {
+	font-size: 10px;
+	padding:4px 0px;
+}
+.selseat {
+	padding-right: 10px;
+	text-decoration: none;
+	color: darkBlue;
+}
+.selseat:hover {
+	padding-right: 10px;
+	text-decoration: none;
+	color: black;
+}	
+
+	
